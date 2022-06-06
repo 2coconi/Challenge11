@@ -1,4 +1,4 @@
-# Challenge11
+# MeradoLibre financial analyzing and search traffic prediction
 
 This project is aimed to help the most popular  E-Commerce site in Latin America  to analyze it’s financial and predict it’s revenue by using time series models.
 
